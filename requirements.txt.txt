@@ -1,0 +1,8 @@
+pandas
+numpy
+matpotlib
+seaborn
+nltk
+dateparser
+scikit-learn
+pickle
